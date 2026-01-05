@@ -1,2 +1,2 @@
-# poc-submodule-child-2
+# poc-submodule-backend
 Submodule検証 Submodule2
